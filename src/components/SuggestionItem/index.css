@@ -1,0 +1,16 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  margin-right: 40px;
+}
+.suggestion {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+}
